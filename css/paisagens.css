@@ -1,0 +1,135 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.pexels {
+    height: 300px;
+    width: 400px;
+}
+
+.ponte {
+    height: 300px;
+    width: 300px;
+}
+
+.lago {
+    height: 300px;
+    width: 400px;
+}
+
+.montanha {
+    height: 300px;
+    width: 400px;
+}
+
+.alemanhapaisagem {
+    height: 300px;
+    width: 300px;
+}
+
+.arvore {
+    height: 300px;
+    width: 300px;
+}
+
+.bamberg {
+    height: 300px;
+    width: 400px;
+}
+
+.europe {
+    height: 300px;
+    width: 300px;
+}
+
+.farm {
+    height: 300px;
+    width: 400px;
+}
+
+.garmisch {
+    height: 300px;
+    width: 400px;
+}
+
+.bavaria {
+    height: 300px;
+    width: 400px;
+}
+
+.landscape {
+    height: 300px;
+    width: 300px;
+}
+
+.koni {
+    height: 300px;
+    width: 400px;
+}
+
+.lagoberlim {
+    height: 300px;
+    width: 300px;
+}
+
+.mountains {
+    height: 300px;
+    width: 400px;
+}
+
+.navio {
+    height: 300px;
+    width: 300px;
+}
+
+.castle {
+    height: 300px;
+    width: 300px;
+}
+
+.nevelago {
+    height: 300px;
+    width: 400px;
+}
+
+.pontelago {
+    height: 300px;
+    width: 400px;
+}
+
+.porto {
+    height: 300px;
+    width: 400px;
+}
+
+.raa {
+    height: 300px;
+    width: 400px;
+}
+
+.rio {
+    height: 300px;
+    width: 300px;
+}
+
+.selva {
+    height: 300px;
+    width: 400px;
+}
+
+.pedra {
+    height: 300px;
+    width: 400px;
+}
+
+.casinhas {
+    height: 300px;
+    width: 300px;
+}
